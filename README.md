@@ -30,8 +30,7 @@ Attempting exams independently
 👉 VisionPrep ensures equal learning opportunities by eliminating these barriers.
 
 🛠️ Tech Stack
-💻 Frontend: React.js / HTML / CSS
-⚙️ Backend: Node.js / Express
+💻 Frontend: Type Scrpit / HTML / CS / JS
 🧠 AI Integration:
 Text-to-Speech APIs
 Speech Recognition APIs
